@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-Challange12/static/css/main.3568c32c.css",
+    "main.js": "/FrontEndMentor-Challange12/static/js/main.506ea9eb.js",
+    "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange12/static/js/787.a97cb00a.chunk.js",
+    "static/media/drawers.jpg": "/FrontEndMentor-Challange12/static/media/drawers.631135b079e9f19bada8.jpg",
+    "index.html": "/FrontEndMentor-Challange12/index.html",
+    "static/media/icon-pinterest.svg": "/FrontEndMentor-Challange12/static/media/icon-pinterest.45264b1d1cdf7f0c420d573853779f7b.svg",
+    "static/media/icon-twitter.svg": "/FrontEndMentor-Challange12/static/media/icon-twitter.45735e3b0e1132259059ab811589d1e7.svg",
+    "static/media/icon-facebook.svg": "/FrontEndMentor-Challange12/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
+    "static/media/icon-share.svg": "/FrontEndMentor-Challange12/static/media/icon-share.890102fe1500a6fba9a76d1b384684d2.svg",
+    "main.3568c32c.css.map": "/FrontEndMentor-Challange12/static/css/main.3568c32c.css.map",
+    "main.506ea9eb.js.map": "/FrontEndMentor-Challange12/static/js/main.506ea9eb.js.map",
+    "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange12/static/js/787.a97cb00a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3568c32c.css",
+    "static/js/main.506ea9eb.js"
+  ]
+}
